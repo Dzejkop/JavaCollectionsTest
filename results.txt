@@ -1,0 +1,28 @@
+Fill Test
+ArrayList 5.48173ms
+HashSet 713.7504ms
+LinkedList 34.30044ms
+LinkedHashSet 379.42136ms
+TreeSet 843.02545ms
+
+Remove Test
+ArrayList 106646.97ms
+HashSet 11.347762ms
+LinkedList 118722.84ms
+LinkedHashSet 5.981209ms
+TreeSet 14.517974ms
+
+Sort Test
+ArrayList 659.4782ms
+HashSet 210.15654ms
+LinkedList 543.8236ms
+LinkedHashSet 176.20448ms
+TreeSet 35.360977ms
+
+Get Test
+ArrayList 57.321537ms
+HashSet 42.303513ms
+LinkedList 43.9502ms
+LinkedHashSet 15.081314ms
+TreeSet 18.670609ms
+
